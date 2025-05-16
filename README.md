@@ -1,5 +1,4 @@
-# Tampering_detection_system
-code and dataset<br />
+# 篡改系统使用说明
 依赖环境：<br />
 &emsp;&emsp;&emsp;（Ⅰ）通过requirements依赖下载<br />
 &emsp;&emsp;&emsp;（Ⅱ）若觉得requirements过于多，环境可精简为：<br />
