@@ -2,7 +2,7 @@
 code and dataset<br />
 依赖环境：（Ⅰ）通过requirements依赖下载<br />
          （Ⅱ）若觉得requirements过于多，环境可精简为：<br />
-                                                      torch==2.3.1+cu121<br />    
+                                                      torch==2.3.1+cu121<br />
                                                       torchvision==0.18.1+cu121<br />
                                                       torchaudio==2.3.1<br />
                                                       PyQt5==5.15.9<br />
