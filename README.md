@@ -1,7 +1,7 @@
 # Tampering_detection_system
 code and dataset<br />
-依赖环境：（Ⅰ）通过requirements依赖下载<br />
-         （Ⅱ）若觉得requirements过于多，环境可精简为：<br />
+依赖环境：<center>内容（Ⅰ）通过requirements依赖下载<br /></center> 
+        <center> （Ⅱ）若觉得requirements过于多，环境可精简为：<br /></center> 
                                                       torch==2.3.1+cu121<br />
                                                       torchvision==0.18.1+cu121<br />
                                                       torchaudio==2.3.1<br />
